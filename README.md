@@ -1,4 +1,5 @@
-## Hi there! 👋
+## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 I am Tiago Alface, a humble begginer. I've sailed into the world of programming through modding for the Counter-Strike Gold Source engine a few years ago, and then later moved to cloud computing.
 
