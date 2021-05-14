@@ -1,5 +1,7 @@
 ## Hey, I'm Tiago Alface! 🥗
 
+I've sailed into the world of design, programming and cloud computing.
+
 The following badges will give you some more info about me:
 
 [![Generic badge](https://img.shields.io/badge/OS-Windows%2010-darkgreen.svg)](https://shields.io/)
