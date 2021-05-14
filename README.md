@@ -1,4 +1,4 @@
-## Hey, I'm Alface! 🥗
+## Hey, I'm Tiago Alface! 🥗
 
 
 I've sailed into the world of design, programming and cloud computing.
