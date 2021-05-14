@@ -1,11 +1,26 @@
-## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hey, I'm Alface! 🥗
 
 
-I am Tiago Alface, a humble beginner. I've sailed into the world of programming through modding for the Counter-Strike Gold Source engine a few years ago, and then later moved to cloud computing.
+I've sailed into the world of design, programming and cloud computing.
 
-* 🔭 I’m currently working on: Az-204 certification
-* 🌱 I’m currently learning: Cloud Computing
-* 📫 How to reach me: syturio@gmail.com
-* ⚡ Fun fact: I hate studying...
+The following badges will give you some more info on me:
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSyturio&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com) ![GitHub followers](https://img.shields.io/github/followers/Syturio?label=followers)
+[![Generic badge](https://img.shields.io/badge/OS-Windows%2010-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Version%20Control-GitHub-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Design-Adobe%20Photoshop-blue.svg)](https://shields.io/)
+
+[![Generic badge](https://img.shields.io/badge/Sport-Swimming-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Hobby-Gaming-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Food-Pizza-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Hands-Diamond-blue.svg)](https://shields.io/)
+
+
+## Knowledge
+<img alt="Azure" height="25px" src="https://img.shields.io/badge/azure-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/> <img alt="Docker" height="25px" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="Jenkins" height="25px" src="https://img.shields.io/badge/jenkins-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
+
+<img alt="HTML5" height="25px" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" height="25px" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Java" height="25px" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+
+
+## Certifications
+<img src="https://i.imgur.com/C2TQLEt.png" width="100px">
