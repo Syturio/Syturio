@@ -5,15 +5,15 @@ I've sailed into the world of design, programming and cloud computing.
 
 The following badges will give you some more info on me:
 
-[![Generic badge](https://img.shields.io/badge/OS-Windows%2010-blue.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Version%20Control-GitHub-blue.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Design-Adobe%20Photoshop-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/OS-Windows%2010-darkgreen.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-darkgreen.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Version%20Control-GitHub-darkgreen.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Design-Adobe%20Photoshop-darkgreen.svg)](https://shields.io/)
 
-[![Generic badge](https://img.shields.io/badge/Sport-Swimming-blue.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Hobby-Gaming-blue.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Food-Pizza-blue.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Hands-Diamond-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Sport-Swimming-darkgreen.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Hobby-Gaming-darkgreen.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Food-Pizza-darkgreen.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Hands-Diamond-darkgreen.svg)](https://shields.io/)
 
 
 ## Knowledge
