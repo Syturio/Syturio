@@ -21,3 +21,4 @@ The following badges will give you some more info about me:
 
 ## Certifications
 <img src="https://i.imgur.com/C2TQLEt.png" width="100px">
+<img src="https://i.imgur.com/H5EO13V.png" width="100px">
