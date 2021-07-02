@@ -2,7 +2,7 @@
 
 The following badges will give you some more info about me:
 
-[![Generic badge](https://img.shields.io/badge/OS-Windows%2010-darkgreen.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/OS-Windows%2011-darkgreen.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-darkgreen.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Version%20Control-GitHub-darkgreen.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Design-Adobe%20Photoshop-darkgreen.svg)](https://shields.io/)
