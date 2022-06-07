@@ -9,7 +9,6 @@ The following badges will give you some more info about me:
 
 [![Generic badge](https://img.shields.io/badge/Sport-Swimming-darkgreen.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Hobby-Gaming-darkgreen.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Food-Pizza-darkgreen.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Hands-Diamond-darkgreen.svg)](https://shields.io/)
 
 
